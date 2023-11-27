@@ -60,7 +60,7 @@ function finalizeOrder() {
     console.log(`Адреса доставки: ${order.deliveryAddress}`);
     console.log(`Номер телефону: ${order.customerPhone}`);
     console.log(`Загальна сума: ${order.total}UAH`);
-    console.log('Дякуємо за ваше замовлення! В найближчий час з вами зв\'яжеться кур'єр');
+    console.log('Дякуємо за ваше замовлення! В найближчий час з вами зв\'яжеться кур\'єр');
 }
 
 function startOrdering() {
